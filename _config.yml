@@ -22,7 +22,8 @@ title: GomGomy Github Blog
 email: leedahee414@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   學而時習之면 不亦說乎아! 배우고 때때로 익히기 위한 블로그!  
-  
+
+cover_image: "assets/mtdh.jpg"  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
